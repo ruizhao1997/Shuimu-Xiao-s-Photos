@@ -1,5 +1,7 @@
 # Shuimu-Xiao-s-Photos
 
+温馨提示：高清大图可在imgs文件夹中下载
+
 # 目录
 
 [***2019-04-05-中山公园***](https://github.com/ruizhao1997/Shuimu-Xiao-s-Photos##2019-04-05-中山公园)
